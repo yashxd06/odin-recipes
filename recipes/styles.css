@@ -1,0 +1,24 @@
+*{
+    margin:0;
+}
+body{
+    font-family: monospace;
+}
+.top-bar{
+    margin:0 auto;
+    background-color: black;
+    padding: 16px;
+    color: white;
+    font-size: 32px;
+}
+.top-bar h1{    
+    display: inline-block;
+}
+a{
+    color: white;
+}
+.content{
+    margin: 16px;
+    font-size: 16px;
+    padding: 16px;
+}

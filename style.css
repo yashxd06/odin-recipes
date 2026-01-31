@@ -1,0 +1,33 @@
+*{
+    margin:0;
+}
+body{
+    font-family: monospace;
+}
+.top-bar{
+    margin:0 auto;
+    background-color: black;
+    padding: 16px;
+    color: white;
+    font-size: 32px;
+}
+.content{
+    margin: 16px;
+    font-size: 32px;
+    padding: 16px;
+}
+a{
+    text-decoration: none;
+    color:black;
+}
+.comment{
+    font-size: 14px;
+}
+.recipe{
+    width: 400px;
+    padding: 20px;
+    background: bisque;
+    border-bottom: 2px solid red;
+    margin: 10px;
+    display: inline-block;
+}
